@@ -7,7 +7,7 @@ Freelance Software Developer & UI/UX Designer
 I'm a developer and designer for about 7+ years of experience, I have interest in Cybersecurity, Architectural Designing, Open-Source projects, & more.
 
 * 🌍  I'm based in New York City
-* 🧠  I'm currently learning C++, CSS3, TypeScript, Java, and React
+* 🧠  I'm currently learning CSS3, TypeScript, Java, and React
 
 ### Skills
 
