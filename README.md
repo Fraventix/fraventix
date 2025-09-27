@@ -1,7 +1,7 @@
 Hi 👋 My name is Fraventix
 ==========================
 
-Freelance Software Engineer & UI/UX Designer
+Freelance Software Developer (Learning Engineering) & UI/UX Designer
 ---------------------------------------------
 
 ### Skills
